@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berka\\source\\repos\\CarRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E66977C-DE77-4702-944E-C2811C754B4D}|CarRental\\CarRental.csproj|c:\\users\\berka\\source\\repos\\carrental\\carrental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E66977C-DE77-4702-944E-C2811C754B4D}|CarRental\\CarRental.csproj|solutionrelative:carrental\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E66977C-DE77-4702-944E-C2811C754B4D}|CarRental\\CarRental.csproj|c:\\users\\berka\\source\\repos\\carrental\\carrental\\repository\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E66977C-DE77-4702-944E-C2811C754B4D}|CarRental\\CarRental.csproj|solutionrelative:carrental\\repository\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E66977C-DE77-4702-944E-C2811C754B4D}|CarRental\\CarRental.csproj|c:\\users\\berka\\source\\repos\\carrental\\carrental\\repository\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E66977C-DE77-4702-944E-C2811C754B4D}|CarRental\\CarRental.csproj|solutionrelative:carrental\\repository\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarRental\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarRental\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T17:33:05.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IData.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\Repository\\IData.cs",
+              "RelativeDocumentMoniker": "CarRental\\Repository\\IData.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\Repository\\IData.cs",
+              "RelativeToolTip": "CarRental\\Repository\\IData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:38:20.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\Repository\\Data.cs",
+              "RelativeDocumentMoniker": "CarRental\\Repository\\Data.cs",
+              "ToolTip": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\Repository\\Data.cs",
+              "RelativeToolTip": "CarRental\\Repository\\Data.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:19:11.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

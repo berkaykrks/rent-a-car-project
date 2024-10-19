@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CarRental.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CarRental.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\cars\\1029ee6f-a3f0-45ad-afc0-ff52bcbcc002_fero.jpg",
+      "PackagePath": "staticwebassets\\assets\\cars\\1029ee6f-a3f0-45ad-afc0-ff52bcbcc002_fero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\cars\\292bd532-9ca2-4735-a8c4-31cd00622e4e_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\cars\\292bd532-9ca2-4735-a8c4-31cd00622e4e_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\cars\\58374b89-90d4-409d-80b8-482aab032eab_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\cars\\58374b89-90d4-409d-80b8-482aab032eab_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\cars\\8307221d-c1eb-41d3-94ee-16bffb67609d_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\cars\\8307221d-c1eb-41d3-94ee-16bffb67609d_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\cars\\d0f8de13-951b-4dea-81fd-325923788781_main.png",
+      "PackagePath": "staticwebassets\\assets\\cars\\d0f8de13-951b-4dea-81fd-325923788781_main.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\cars\\dc5b5411-95db-48be-bbe7-a886f49b9a05_lambo4.jpg",
+      "PackagePath": "staticwebassets\\assets\\cars\\dc5b5411-95db-48be-bbe7-a886f49b9a05_lambo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\cars\\e7ff48c0-2bcf-4a96-a0b5-767b1581fc9b_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\cars\\e7ff48c0-2bcf-4a96-a0b5-767b1581fc9b_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\cars\\fd8a3898-2e3a-40b9-af59-8c2354a291af_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\cars\\fd8a3898-2e3a-40b9-af59-8c2354a291af_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\drivers\\1fb7e5f0-7a6c-4fa9-acc3-c4ad91898c41_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\drivers\\1fb7e5f0-7a6c-4fa9-acc3-c4ad91898c41_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\drivers\\3335779f-f8ac-4d39-978b-5a332f11a2b4_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\drivers\\3335779f-f8ac-4d39-978b-5a332f11a2b4_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\drivers\\3b920760-97f3-46ec-be0b-548c6246f6d6_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\drivers\\3b920760-97f3-46ec-be0b-548c6246f6d6_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\drivers\\540abe01-2a61-4fc8-a5dc-dedb01a44775_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\drivers\\540abe01-2a61-4fc8-a5dc-dedb01a44775_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\drivers\\76cc1f9a-2a41-4730-a400-5af62df5cbb9_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\drivers\\76cc1f9a-2a41-4730-a400-5af62df5cbb9_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\drivers\\91e6afb3-4404-42ed-9792-2fa6d1f0750d_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\drivers\\91e6afb3-4404-42ed-9792-2fa6d1f0750d_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\drivers\\b3b4442f-f19d-480b-91db-b3948254e6bb_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\drivers\\b3b4442f-f19d-480b-91db-b3948254e6bb_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\drivers\\c8bd1fe1-940d-422c-874c-9be2008e9fd6_x5_1193170186yns.jpg",
+      "PackagePath": "staticwebassets\\assets\\drivers\\c8bd1fe1-940d-422c-874c-9be2008e9fd6_x5_1193170186yns.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\car.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\car2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\car2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\car3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\car3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\fero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\fero2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fero2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\lambo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\lambo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\lambo3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\lambo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\lambo4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\lambo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\merso.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\merso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop1.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop10.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop11.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop2.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop3.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop4.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop5.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop6.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop7.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop8.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\assets\\img\\pop9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pop9.png"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\css\\styles2.css",
+      "PackagePath": "staticwebassets\\css\\styles2.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\berka\\source\\repos\\CarRental\\CarRental\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarRental.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CarRental.props",
+      "PackagePath": "build\\CarRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CarRental.props",
+      "PackagePath": "buildMultiTargeting\\CarRental.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CarRental.props",
+      "PackagePath": "buildTransitive\\CarRental.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
